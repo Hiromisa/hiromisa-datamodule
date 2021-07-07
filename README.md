@@ -20,3 +20,8 @@ DL_data_Biographical-database-BoD-Unique-Positions.xlsx
 (Download from [Brookings](https://www.brookings.edu/research/diversity-within-the-federal-reserve-system/).)
 
 bod.csv
+
+**3. Homework for Week5**
+
+03-classwork-api-parser-hiromi.ipynb
+
